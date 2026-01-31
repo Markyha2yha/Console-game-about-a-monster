@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Monsterhideandseek/1.0.0": {
+        "runtime": {
+          "Monsterhideandseek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Monsterhideandseek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

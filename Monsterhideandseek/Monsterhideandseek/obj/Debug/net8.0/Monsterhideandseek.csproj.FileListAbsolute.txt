@@ -1,0 +1,14 @@
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\bin\Debug\net8.0\Monsterhideandseek.exe
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\bin\Debug\net8.0\Monsterhideandseek.deps.json
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\bin\Debug\net8.0\Monsterhideandseek.runtimeconfig.json
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\bin\Debug\net8.0\Monsterhideandseek.dll
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\bin\Debug\net8.0\Monsterhideandseek.pdb
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\obj\Debug\net8.0\Monsterhideandseek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\obj\Debug\net8.0\Monsterhideandseek.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\obj\Debug\net8.0\Monsterhideandseek.AssemblyInfo.cs
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\obj\Debug\net8.0\Monsterhideandseek.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\obj\Debug\net8.0\Monsterhideandseek.dll
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\obj\Debug\net8.0\refint\Monsterhideandseek.dll
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\obj\Debug\net8.0\Monsterhideandseek.pdb
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\obj\Debug\net8.0\Monsterhideandseek.genruntimeconfig.cache
+C:\Users\Mark\source\repos\Monsterhideandseek\Monsterhideandseek\obj\Debug\net8.0\ref\Monsterhideandseek.dll
